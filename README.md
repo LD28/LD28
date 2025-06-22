@@ -1,4 +1,4 @@
-<p align="center"><a href="https://LD28.github.io"><img width="80%" alt="Hello👋, I'm LD28!" src="./assets/LD28.png" /></a></p>
+<p align="center"><a href="https://LD28.github.io"><img width="80%" alt="Hello👋, I'm LD28!" src="image.png" /></a></p>
 
 <br />
 
