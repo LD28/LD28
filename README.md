@@ -5,7 +5,7 @@
 <img align="right" top='60' alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="480"/>
 
 
-### I'm LD28 🌠
+
 
 <br/>
 
