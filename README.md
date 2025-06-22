@@ -1,4 +1,6 @@
-### Hi there 👋
+<p align="center"><a href="https://LD28.github.io"><img width="80%" alt="Hello👋, I'm LD28!" src="./assets/LD28.png" /></a></p>
+
+<br />
 
 <img align="right" top='60' alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="480"/>
 
