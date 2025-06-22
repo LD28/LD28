@@ -6,9 +6,9 @@
 
 
 
-
-<br/>
 ## Personal Information
+<br/>
+
 - 🍒  A M.S. Student.
 - 🌏  YunNan KunMing.
 - 🎓  Graduated from YNU.
