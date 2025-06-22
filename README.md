@@ -10,15 +10,11 @@
 - 🍒  A M.S. Student.
 - 🌏  YunNan KunMing.
 - 🎓  Graduated from YNU.
-- 💻  0 years of work.
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💻  1 years of work.
+- 😄  Occupation：Electronic Engineer
+- 🌱  Main technical direction: MCU/PCB/Embedded software and Hardware development 
 - 📧  [Tencent mailbox](mailto:dli_ynu@163.com).
+- 💬 - 📫 - ⚡
 <br/>
 
 You are my ![Visitor Count](https://profile-counter.glitch.me/LD28/count.svg)th visitor
@@ -29,10 +25,10 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/LD28/count.svg)th 
 ## About My Github
 
 <!-- ![My stats](https://github-readme-stats.vercel.app/api?username=LD28&theme=vue-dark&show_icons=true) -->
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LD28&hide=html,css,Jupyter+Notebook,ruby,javascript&theme=vue-dark&langs_count=6) -->
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LD28&theme=vue-dark&langs_count=6) -->
 <div>
     <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=LD28&theme=vue-dark&show_icons=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LD28&hide=html,css,Jupyter+Notebook,ruby,javascript&theme=vue-dark&langs_count=6&layout=compact" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LD28&theme=vue-dark&layout=compact" />
 </div>
 
 
@@ -43,13 +39,15 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/LD28/count.svg)th 
 
 <table><tr><td valign="top" width="33%">
 
-### Frontend  
+### Hardware 
 <div align="left">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>
+<a href="https://en.wikipedia.org/wiki/Microcontroller" target="_blank"> <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" alt="MCU" height="50" /></a> 
+<a href="https://en.wikipedia.org/wiki/Printed_circuit_board" target="_blank"> <img style="margin: 10px" src="https://cdn-static.altium.com.cn/themes/custom/altium_designer_new/html/dist/images/logo-ad-black.svg" alt="PCB" height="50" /></a>
+
+
 <!--<a href="https://angular.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" /></a>  
 <a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a>  
 <a href="https://gulpjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gulp-plain.svg" alt="gulp.js" height="50" /></a>
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
 <a href="https://www.electronjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="50" /></a>  
@@ -82,15 +80,16 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/LD28/count.svg)th 
 
 
 
-### Backend  
+### AI  
 <div align="left">  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
+<a href="https://www.anaconda.com/" target="_blank"> <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" alt="Anconda" height="50" /> </a> 
+<a href="https://pytorch.org/" target="_blank"> <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" alt="PyTorch" height="50" />
+
+
 <!--<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  -->
 <!--<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  -->
 <!--<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  -->
-<!--<!--<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  -->
 <!--<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  --> 
-<!--<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  -->
 <!--<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  -->
 <!--<a href="https://dotnet.microsoft.com/download/dotnet-framework" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50" /></a>  -->
 <!--<a href="https://kotlinlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="50" /></a>  -->
@@ -106,17 +105,23 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/LD28/count.svg)th 
 
 
 
-### DevOps  
-<div align="left">  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
-<!--<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>-->  
+### Langue  
+<div align="left">   
+<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a> 
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>
+<a href="https://www.mathworks.com/products/matlab.html" target="_blank"> <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="MATLAB" height="50" /></a>   
+<a href="https://www.xilinx.com/products/design-tools/vivado.html" target="_blank"> <img style="margin: 10px"
+src="https://dl.flathub.org/media/com/github/corna.Vivado/07ad2cd5a0a53383dce2081f799f9726/icons/128x128@2/com.github.corna.Vivado.png" alt="Xilinx Vivado" height="50" /></a> 
+<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>
+
+    
 <!--<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  -->
 <!--<a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>  -->
 <!--<a href="https://www.jenkins.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" alt="Jenkins" height="50" /></a>  -->
 <!--<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>-->
 <!--<a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>-->
 </div>
-
 </td></tr></table>  
 
 <br/>  
@@ -124,17 +129,8 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/LD28/count.svg)th 
 ## Connect with me  
 
 <div align="left">
-<a href="https://twitter.com" target="_blank">  <!-- 暂时未指定 -->
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>    
-<a href="https://gitlab.com/LD28" target="_blank">  <!-- 指定 -->
-<img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
-</a> 
 <a href="https://github.com/LD28" target="_blank">   <!-- 指定 -->
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://     " target="_blank">     <!-- 空着 -->
-<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.youtube.com" target="_blank">    <!-- 暂时未指定 -->
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
