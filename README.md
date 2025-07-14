@@ -16,10 +16,12 @@
 - 😄  Occupation：Electronic Engineer
 - 🌱  Main technical direction: MCU/PCB/Embedded software and Hardware development 
 - 📧  [Tencent mailbox](mailto:dli_ynu@163.com).
-- 💬 - 📫 - ⚡
+- 💬 - 📫 - ⚡https://github.com/LD28/LD28/blob/main/README.md
 <br/>
 
-You are my ![Visitor Count](https://profile-counter.glitch.me/LD28/count.svg)th visitor
+
+You are my ![Visitor Count](https://visitor.vercel.app/count.svg?id=LD28)th visitor
+
 <br/>
 
 <br/>
