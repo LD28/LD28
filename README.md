@@ -19,7 +19,7 @@
 - 💬 - 📫 - ⚡
 <br/>
 
-You are my ![](https://visitor-badge.laobi.icu/badge?page_id=LD28)th visitor
+You are my ![](https://visitor-badge.laobi.icu/badge?page_id=LD28&count=10)th visitor
 <br/>
 
 <br/>
